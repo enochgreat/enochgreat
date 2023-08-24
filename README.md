@@ -14,16 +14,16 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enochgreat&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div
-- 🔭 I’m currently working on shell and emacs basics 
+ 🔭 I’m currently working on shell and emacs basics 
   
 
-- 🌱 I’m currently learning git tutorials
+ 🌱 I’m currently learning git tutorials
   
 
-- ❓ Ask me about anything related to HTML, CSS, Shell navigation, Git Hub
+ ❓ Ask me about anything related to HTML, CSS, Shell navigation, Git Hub
   
 
-- ⚡ Fun fact: Did you know that Dr. Richard Stallman (stallman.org) launched the Free Software Movement in 1983? by announcing the plan to develop the GNU operating system, intended to be composed entirely of free (freedom-respecting) software (gnu.org/philosophy/free-sw.html).  
+ ⚡ Fun fact: Did you know that Dr. Richard Stallman (stallman.org) launched the Free Software Movement in 1983? by announcing the plan to develop the GNU operating system, intended to be composed entirely of free (freedom-respecting) software (gnu.org/philosophy/free-sw.html).  
   
 
 <br/>  
@@ -112,7 +112,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=samuelogboye&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=enochgreat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
